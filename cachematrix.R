@@ -46,5 +46,5 @@ cacheSolve <- function(x, ...) {
         
         x$set_inverse(inverse_var) ## store the inverse matrix in the list
         
-        inverse_var ## return the inverse matrix
+        inverse_var ## return the inverse matrix 
 }
